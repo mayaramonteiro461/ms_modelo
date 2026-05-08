@@ -1,2 +1,2 @@
 # ms_modelo
-modelo de manuscrito
+eletiva Elvio
